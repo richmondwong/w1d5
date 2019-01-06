@@ -1,5 +1,3 @@
-
-
 var importedFunctions = require('./first.js')
 
 importedFunctions.listCreator(1)
