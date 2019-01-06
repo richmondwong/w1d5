@@ -8,11 +8,9 @@ var listSorter = function(inputList){
 inputList.sort(function(a,b){return a-b})
 }
 
-
 var viewArr = function(){
 console.log(arr)
 }
-
 
 module.exports = {
   listCreator: listCreator,
